@@ -12,10 +12,11 @@ Regardless of which bank you choose, you will need to follow the following proce
 1. Bring your Employment Gold Card and another proof of your identity (passport).
 2. Go to a bank near the address stated on your Employment Gold Card. For example, you cannot go to Xinyi to open a bank account if your residential address is at Sanchong.
 3. Prepare a local Taiwan number. This is needed for most banks to send OTP for login to your internet banking portal.
+4. Make sure you have your address on your ID card.
 
 Common features for all banks:
 
-* Support multi-currency
+* Support multi-currency, however, can only deposit cash in a few select currencies. Only bank of Taiwan will exchange Canadian cahs for instance and only at select branches.
 * When receiving funds from overseas, every banks is legally required to call you to know the nature of those funds.
 * All interest you'll receive from bank accounts in Taiwan will get automatically reported to the Tax office
 
@@ -70,10 +71,11 @@ Limited to Personal Account access. No access to business account before 6 month
 Appointment process could take a month, without guarantee to open an account. If you are interested in their "Citibank® Global Transfers", it's only for Taiwanese citizens.
 
 ### HSBC
-
+Only need to meet qualifications for Premier or Advance status in one country, and retain that status in other countries.
 **Global Transfers:**
 3,000,000 NTD for their [Premier account](https://www.hsbc.com.tw/en-tw/premier/), and 500,000 NTD for their [Advance account](https://www.hsbc.com.tw/en-tw/advance/).
-
+HSBC has a single online banking signon site that shows all accounts worldide, and then an app for each country.
+Can transfer money from one country to another through a single app, and can exchange currencies using the app as well, along with the ability to enter into foreign exchange future contracts.
 Supports global transfers from other countries and local transfers.
 
 ## Transferring Money to Taiwan
