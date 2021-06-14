@@ -13,7 +13,7 @@ Renting is common in Taiwan, and there are a large range of types of dwellings a
  with a landlord from lease signing onward. Standard leases are available from most convenience
  stores and it is common to use these. A one or two month deposit, refunded on leaving the property
  is common. Negotiation down from the advertised price is common. Properties close to MRT stations
- are the most desirable.
+ are the most desirable. It is common for landlords to not want to rent to foreigners. It is also common to have to pay building fees on top of rent along with utlities.
 
 If you are looking for newer, tall modern apartment buildings, these are known as "電梯大樓" and you
  can limit your search on 591 to this. Other search sites include [myroomabroad](https://myroomabroad.com)
